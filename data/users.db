@@ -1,0 +1,4 @@
+{"email":"user1@gmail.com","password":"$2a$12$tSk8s5jAWlknoMK4Fr1J8.0W7dZfkhXK109xxpqd/sAkn6oZPazwC","_id":"0KpMonBE4vC5P81O"}
+{"email":"dror2@gmail.com","password":"$2a$12$zdNTk9/eeplwnT.XS6MqIuPkh3eVv1vzD51HPKL1h1tFF1CakehF.","_id":"t89evb7AJWtqafu9"}
+{"email":"drorfix@gmail.com","password":"$2a$12$KD92bhmM2ZjMXDmUpRzdC.CYnD/BePdhueix3tytR1GZmxWzfDVlS","_id":"wz3rMWn879g7pCyA"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
